@@ -3,3 +3,6 @@ version = 1
 [[analyzers]]
 name = "csharp"
 enabled = true
+
+[analyzers.meta]
+  lang_version = "8"
