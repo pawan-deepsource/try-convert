@@ -5,4 +5,4 @@ name = "csharp"
 enabled = true
 
 [analyzers.meta]
-  lang_version = "11"
+  lang_version = "6"
